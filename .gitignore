@@ -1,0 +1,9 @@
+# .gitignore
+venv/
+__pycache__/
+*.npy
+*.pkl
+*.pt
+data/*.db
+data/*.csv
+config.json

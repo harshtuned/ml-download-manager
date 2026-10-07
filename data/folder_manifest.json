@@ -1,0 +1,2282 @@
+[
+  {
+    "id": 0,
+    "path": "C:\\Users\\ezioh\\Documents",
+    "parent": null,
+    "n_files": 4
+  },
+  {
+    "id": 1,
+    "path": "C:\\Users\\ezioh\\Documents\\anaconda_projects",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 2,
+    "path": "C:\\Users\\ezioh\\Documents\\anaconda_projects\\5e2e9cbd-61dc-41b6-ac3f-4b4db95a781a",
+    "parent": "C:\\Users\\ezioh\\Documents\\anaconda_projects",
+    "n_files": 0
+  },
+  {
+    "id": 3,
+    "path": "C:\\Users\\ezioh\\Documents\\anaconda_projects\\db",
+    "parent": "C:\\Users\\ezioh\\Documents\\anaconda_projects",
+    "n_files": 1
+  },
+  {
+    "id": 4,
+    "path": "C:\\Users\\ezioh\\Documents\\Custom Office Templates",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 5,
+    "path": "C:\\Users\\ezioh\\Documents\\FeedbackHub",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 6,
+    "path": "C:\\Users\\ezioh\\Documents\\GitHub",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 7,
+    "path": "C:\\Users\\ezioh\\Documents\\GitHub\\Linked_list",
+    "parent": "C:\\Users\\ezioh\\Documents\\GitHub",
+    "n_files": 1
+  },
+  {
+    "id": 8,
+    "path": "C:\\Users\\ezioh\\Documents\\GTA San Andreas User Files",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 1
+  },
+  {
+    "id": 9,
+    "path": "C:\\Users\\ezioh\\Documents\\GTA San Andreas User Files\\Gallery",
+    "parent": "C:\\Users\\ezioh\\Documents\\GTA San Andreas User Files",
+    "n_files": 0
+  },
+  {
+    "id": 10,
+    "path": "C:\\Users\\ezioh\\Documents\\GTA San Andreas User Files\\User Tracks",
+    "parent": "C:\\Users\\ezioh\\Documents\\GTA San Andreas User Files",
+    "n_files": 0
+  },
+  {
+    "id": 11,
+    "path": "C:\\Users\\ezioh\\Documents\\Journals",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 4
+  },
+  {
+    "id": 12,
+    "path": "C:\\Users\\ezioh\\Documents\\KingsoftData",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 13,
+    "path": "C:\\Users\\ezioh\\Documents\\KingsoftData\\office6",
+    "parent": "C:\\Users\\ezioh\\Documents\\KingsoftData",
+    "n_files": 1
+  },
+  {
+    "id": 14,
+    "path": "C:\\Users\\ezioh\\Documents\\MATLAB",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 15,
+    "path": "C:\\Users\\ezioh\\Documents\\My Games",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 16,
+    "path": "C:\\Users\\ezioh\\Documents\\My Games\\Far Cry 3",
+    "parent": "C:\\Users\\ezioh\\Documents\\My Games",
+    "n_files": 2
+  },
+  {
+    "id": 17,
+    "path": "C:\\Users\\ezioh\\Documents\\Obsidian Vault",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 2
+  },
+  {
+    "id": 18,
+    "path": "C:\\Users\\ezioh\\Documents\\OneNote Notebooks",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 1
+  },
+  {
+    "id": 19,
+    "path": "C:\\Users\\ezioh\\Documents\\PowerShell",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 20,
+    "path": "C:\\Users\\ezioh\\Documents\\PowerShell\\Modules",
+    "parent": "C:\\Users\\ezioh\\Documents\\PowerShell",
+    "n_files": 0
+  },
+  {
+    "id": 21,
+    "path": "C:\\Users\\ezioh\\Documents\\PowerShell\\Modules\\Microsoft.PowerToys.Configure",
+    "parent": "C:\\Users\\ezioh\\Documents\\PowerShell\\Modules",
+    "n_files": 0
+  },
+  {
+    "id": 22,
+    "path": "C:\\Users\\ezioh\\Documents\\PowerShell\\Modules\\Microsoft.PowerToys.Configure\\0.99.1.0",
+    "parent": "C:\\Users\\ezioh\\Documents\\PowerShell\\Modules\\Microsoft.PowerToys.Configure",
+    "n_files": 2
+  },
+  {
+    "id": 23,
+    "path": "C:\\Users\\ezioh\\Documents\\PowerToys",
+    "parent": "C:\\Users\\ezioh\\Documents",
+    "n_files": 0
+  },
+  {
+    "id": 24,
+    "path": "C:\\Users\\ezioh\\Documents\\PowerToys\\Backup",
+    "parent": "C:\\Users\\ezioh\\Documents\\PowerToys",
+    "n_files": 0
+  },
+  {
+    "id": 25,
+    "path": "C:\\Users\\ezioh\\Desktop",
+    "parent": null,
+    "n_files": 0
+  },
+  {
+    "id": 26,
+    "path": "A:\\",
+    "parent": null,
+    "n_files": 6
+  },
+  {
+    "id": 27,
+    "path": "A:\\4th SEM Material",
+    "parent": "A:\\",
+    "n_files": 3
+  },
+  {
+    "id": 28,
+    "path": "A:\\4th SEM Material\\C",
+    "parent": "A:\\4th SEM Material",
+    "n_files": 1
+  },
+  {
+    "id": 29,
+    "path": "A:\\4th SEM Material\\Daa",
+    "parent": "A:\\4th SEM Material",
+    "n_files": 0
+  },
+  {
+    "id": 30,
+    "path": "A:\\4th SEM Material\\Dbms",
+    "parent": "A:\\4th SEM Material",
+    "n_files": 2
+  },
+  {
+    "id": 31,
+    "path": "A:\\4th SEM Material\\Java",
+    "parent": "A:\\4th SEM Material",
+    "n_files": 0
+  },
+  {
+    "id": 32,
+    "path": "A:\\4th SEM Material\\Java\\aii",
+    "parent": "A:\\4th SEM Material\\Java",
+    "n_files": 4
+  },
+  {
+    "id": 33,
+    "path": "A:\\4th SEM Material\\Operating_system",
+    "parent": "A:\\4th SEM Material",
+    "n_files": 2
+  },
+  {
+    "id": 34,
+    "path": "A:\\5TH SEM -MATERIALS",
+    "parent": "A:\\",
+    "n_files": 1
+  },
+  {
+    "id": 35,
+    "path": "A:\\5TH SEM -MATERIALS\\Computer Network",
+    "parent": "A:\\5TH SEM -MATERIALS",
+    "n_files": 6
+  },
+  {
+    "id": 36,
+    "path": "A:\\5TH SEM -MATERIALS\\Computer Network\\books",
+    "parent": "A:\\5TH SEM -MATERIALS\\Computer Network",
+    "n_files": 1
+  },
+  {
+    "id": 37,
+    "path": "A:\\5TH SEM -MATERIALS\\Computer Network\\notes",
+    "parent": "A:\\5TH SEM -MATERIALS\\Computer Network",
+    "n_files": 8
+  },
+  {
+    "id": 38,
+    "path": "A:\\5TH SEM -MATERIALS\\Data Minning",
+    "parent": "A:\\5TH SEM -MATERIALS",
+    "n_files": 8
+  },
+  {
+    "id": 39,
+    "path": "A:\\5TH SEM -MATERIALS\\Data Minning\\PVQs",
+    "parent": "A:\\5TH SEM -MATERIALS\\Data Minning",
+    "n_files": 5
+  },
+  {
+    "id": 40,
+    "path": "A:\\5TH SEM -MATERIALS\\FLAT",
+    "parent": "A:\\5TH SEM -MATERIALS",
+    "n_files": 10
+  },
+  {
+    "id": 41,
+    "path": "A:\\5TH SEM -MATERIALS\\FLAT\\extra",
+    "parent": "A:\\5TH SEM -MATERIALS\\FLAT",
+    "n_files": 7
+  },
+  {
+    "id": 42,
+    "path": "A:\\5TH SEM -MATERIALS\\ml",
+    "parent": "A:\\5TH SEM -MATERIALS",
+    "n_files": 19
+  },
+  {
+    "id": 43,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\Assignments",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml",
+    "n_files": 4
+  },
+  {
+    "id": 44,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\Assignments\\BTECH15066-ass3",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\Assignments",
+    "n_files": 1
+  },
+  {
+    "id": 45,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\Assignments\\BTECH15066-ass3\\BTECH1506624-ass3",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\Assignments\\BTECH15066-ass3",
+    "n_files": 20
+  },
+  {
+    "id": 46,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\Assignments\\BTECH1518824-ass4",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\Assignments",
+    "n_files": 0
+  },
+  {
+    "id": 47,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\Assignments\\BTECH1518824-ass4\\BTECH1506624-ass4",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\Assignments\\BTECH1518824-ass4",
+    "n_files": 16
+  },
+  {
+    "id": 48,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml",
+    "n_files": 0
+  },
+  {
+    "id": 49,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776",
+    "n_files": 3
+  },
+  {
+    "id": 50,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\(Footage)",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776",
+    "n_files": 1
+  },
+  {
+    "id": 51,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\(Footage)\\Footage",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\(Footage)",
+    "n_files": 6
+  },
+  {
+    "id": 52,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\Motion Graphics Template Media",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776",
+    "n_files": 0
+  },
+  {
+    "id": 53,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\Motion Graphics Template Media\\120c4a55-d337-40b6-8eb0-e11d87f3402e",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\Motion Graphics Template Media",
+    "n_files": 1
+  },
+  {
+    "id": 54,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\Motion Graphics Template Media\\6324dcec-6eb1-4a35-ac2b-71e22f7be5bd",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\mixkit-title-credits-video-edge-776\\776\\Motion Graphics Template Media",
+    "n_files": 1
+  },
+  {
+    "id": 55,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\ml lab",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml",
+    "n_files": 0
+  },
+  {
+    "id": 56,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\ml lab\\module_1",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml\\ml lab",
+    "n_files": 9
+  },
+  {
+    "id": 57,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\Ml pvqs",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml",
+    "n_files": 12
+  },
+  {
+    "id": 58,
+    "path": "A:\\5TH SEM -MATERIALS\\ml\\Notes",
+    "parent": "A:\\5TH SEM -MATERIALS\\ml",
+    "n_files": 2
+  },
+  {
+    "id": 59,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything",
+    "parent": "A:\\5TH SEM -MATERIALS",
+    "n_files": 4
+  },
+  {
+    "id": 60,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything",
+    "n_files": 4
+  },
+  {
+    "id": 61,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab\\ml_lab",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab",
+    "n_files": 2
+  },
+  {
+    "id": 62,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab\\module_1",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab",
+    "n_files": 12
+  },
+  {
+    "id": 63,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab\\Module_3",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab",
+    "n_files": 4
+  },
+  {
+    "id": 64,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab\\nlp_lab_module2",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab",
+    "n_files": 8
+  },
+  {
+    "id": 65,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab\\nlp_pvqs",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab",
+    "n_files": 20
+  },
+  {
+    "id": 66,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab\\Priha_nlp_codes",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything\\nlp_lab",
+    "n_files": 10
+  },
+  {
+    "id": 67,
+    "path": "A:\\5TH SEM -MATERIALS\\nlp-everything\\Pvqs",
+    "parent": "A:\\5TH SEM -MATERIALS\\nlp-everything",
+    "n_files": 6
+  },
+  {
+    "id": 68,
+    "path": "A:\\board",
+    "parent": "A:\\",
+    "n_files": 6
+  },
+  {
+    "id": 69,
+    "path": "A:\\deep learning",
+    "parent": "A:\\",
+    "n_files": 14
+  },
+  {
+    "id": 70,
+    "path": "A:\\deep learning\\BTECH1506624-ass2",
+    "parent": "A:\\deep learning",
+    "n_files": 0
+  },
+  {
+    "id": 71,
+    "path": "A:\\deep learning\\BTECH1506624-ass2\\BTECH1506624-ass2",
+    "parent": "A:\\deep learning\\BTECH1506624-ass2",
+    "n_files": 20
+  },
+  {
+    "id": 72,
+    "path": "A:\\Downloads",
+    "parent": "A:\\",
+    "n_files": 0
+  },
+  {
+    "id": 73,
+    "path": "A:\\Far Cry 4 - Gold Edition [FitGirl Repack]",
+    "parent": "A:\\",
+    "n_files": 0
+  },
+  {
+    "id": 74,
+    "path": "A:\\GATE27",
+    "parent": "A:\\",
+    "n_files": 14
+  },
+  {
+    "id": 75,
+    "path": "A:\\GATE27\\smart-downloads",
+    "parent": "A:\\GATE27",
+    "n_files": 0
+  },
+  {
+    "id": 76,
+    "path": "A:\\GATE27\\smart-downloads\\smart-downloads",
+    "parent": "A:\\GATE27\\smart-downloads",
+    "n_files": 3
+  },
+  {
+    "id": 77,
+    "path": "A:\\ML Projects",
+    "parent": "A:\\",
+    "n_files": 0
+  },
+  {
+    "id": 78,
+    "path": "A:\\ML Projects\\ml-download-organizer",
+    "parent": "A:\\ML Projects",
+    "n_files": 2
+  },
+  {
+    "id": 79,
+    "path": "A:\\ML Projects\\ml-download-organizer\\app",
+    "parent": "A:\\ML Projects\\ml-download-organizer",
+    "n_files": 3
+  },
+  {
+    "id": 80,
+    "path": "A:\\ML Projects\\ml-download-organizer\\data",
+    "parent": "A:\\ML Projects\\ml-download-organizer",
+    "n_files": 2
+  },
+  {
+    "id": 81,
+    "path": "A:\\ML Projects\\ml-download-organizer\\features",
+    "parent": "A:\\ML Projects\\ml-download-organizer",
+    "n_files": 0
+  },
+  {
+    "id": 82,
+    "path": "A:\\ML Projects\\ml-download-organizer\\models",
+    "parent": "A:\\ML Projects\\ml-download-organizer",
+    "n_files": 0
+  },
+  {
+    "id": 83,
+    "path": "A:\\ML Projects\\ml-download-organizer\\notebooks",
+    "parent": "A:\\ML Projects\\ml-download-organizer",
+    "n_files": 1
+  },
+  {
+    "id": 84,
+    "path": "A:\\project",
+    "parent": "A:\\",
+    "n_files": 1
+  },
+  {
+    "id": 85,
+    "path": "A:\\Questions",
+    "parent": "A:\\",
+    "n_files": 3
+  },
+  {
+    "id": 86,
+    "path": "A:\\Random downloads",
+    "parent": "A:\\",
+    "n_files": 20
+  },
+  {
+    "id": 87,
+    "path": "A:\\Random downloads\\lab",
+    "parent": "A:\\Random downloads",
+    "n_files": 4
+  },
+  {
+    "id": 88,
+    "path": "A:\\Random downloads\\lab\\hamming code",
+    "parent": "A:\\Random downloads\\lab",
+    "n_files": 0
+  },
+  {
+    "id": 89,
+    "path": "A:\\SQL_material",
+    "parent": "A:\\",
+    "n_files": 10
+  },
+  {
+    "id": 90,
+    "path": "A:\\SteamLibrary",
+    "parent": "A:\\",
+    "n_files": 2
+  },
+  {
+    "id": 91,
+    "path": "A:\\SteamLibrary\\steamapps",
+    "parent": "A:\\SteamLibrary",
+    "n_files": 1
+  },
+  {
+    "id": 92,
+    "path": "A:\\SteamLibrary\\steamapps\\common",
+    "parent": "A:\\SteamLibrary\\steamapps",
+    "n_files": 0
+  },
+  {
+    "id": 93,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3",
+    "parent": "A:\\SteamLibrary\\steamapps\\common",
+    "n_files": 2
+  },
+  {
+    "id": 94,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3",
+    "n_files": 17
+  },
+  {
+    "id": 95,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin",
+    "n_files": 0
+  },
+  {
+    "id": 96,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources\\de",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "n_files": 1
+  },
+  {
+    "id": 97,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources\\es",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "n_files": 1
+  },
+  {
+    "id": 98,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources\\fr",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "n_files": 1
+  },
+  {
+    "id": 99,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources\\it",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "n_files": 1
+  },
+  {
+    "id": 100,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources\\nl",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "n_files": 1
+  },
+  {
+    "id": 101,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources\\uk",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "n_files": 1
+  },
+  {
+    "id": 102,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources\\us",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\bin\\Resources",
+    "n_files": 1
+  },
+  {
+    "id": 103,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3",
+    "n_files": 20
+  },
+  {
+    "id": 104,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\engine",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32",
+    "n_files": 0
+  },
+  {
+    "id": 105,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\engine\\shaders",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\engine",
+    "n_files": 0
+  },
+  {
+    "id": 106,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\engine\\shaders\\obj11",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\engine\\shaders",
+    "n_files": 11
+  },
+  {
+    "id": 107,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32",
+    "n_files": 0
+  },
+  {
+    "id": 108,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds\\downloadcontent",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds",
+    "n_files": 0
+  },
+  {
+    "id": 109,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds\\downloadcontent\\mp_dlc1",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds\\downloadcontent",
+    "n_files": 20
+  },
+  {
+    "id": 110,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds\\fc3_main",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds",
+    "n_files": 20
+  },
+  {
+    "id": 111,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds\\multicommon",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\data_win32\\worlds",
+    "n_files": 18
+  },
+  {
+    "id": 112,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3",
+    "n_files": 0
+  },
+  {
+    "id": 113,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\DirectX",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "n_files": 20
+  },
+  {
+    "id": 114,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "n_files": 1
+  },
+  {
+    "id": 115,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX20",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework",
+    "n_files": 18
+  },
+  {
+    "id": 116,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX30",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework",
+    "n_files": 20
+  },
+  {
+    "id": 117,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX30\\x64",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX30",
+    "n_files": 1
+  },
+  {
+    "id": 118,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX30\\x86",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX30",
+    "n_files": 1
+  },
+  {
+    "id": 119,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX35",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework",
+    "n_files": 0
+  },
+  {
+    "id": 120,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX35\\ia64",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX35",
+    "n_files": 1
+  },
+  {
+    "id": 121,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX35\\x64",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX35",
+    "n_files": 1
+  },
+  {
+    "id": 122,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX35\\x86",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetFX35",
+    "n_files": 1
+  },
+  {
+    "id": 123,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetMSP",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework",
+    "n_files": 2
+  },
+  {
+    "id": 124,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetMSP\\ia64",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetMSP",
+    "n_files": 2
+  },
+  {
+    "id": 125,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetMSP\\x64",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetMSP",
+    "n_files": 4
+  },
+  {
+    "id": 126,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetMSP\\x86",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\dotNetMSP",
+    "n_files": 4
+  },
+  {
+    "id": 127,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework\\Tools",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\dotNetFramework",
+    "n_files": 3
+  },
+  {
+    "id": 128,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\GameLauncher",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "n_files": 1
+  },
+  {
+    "id": 129,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\Manual",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "n_files": 0
+  },
+  {
+    "id": 130,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\Manual\\English",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\Manual",
+    "n_files": 1
+  },
+  {
+    "id": 131,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\Manual\\English (UK)",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\Manual",
+    "n_files": 1
+  },
+  {
+    "id": 132,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\ReadMe",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "n_files": 0
+  },
+  {
+    "id": 133,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\ReadMe\\English",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\ReadMe",
+    "n_files": 1
+  },
+  {
+    "id": 134,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\ReadMe\\English (UK)",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\ReadMe",
+    "n_files": 1
+  },
+  {
+    "id": 135,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\Uninstall",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "n_files": 1
+  },
+  {
+    "id": 136,
+    "path": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support\\VCRedist",
+    "parent": "A:\\SteamLibrary\\steamapps\\common\\Far Cry 3\\Support",
+    "n_files": 2
+  },
+  {
+    "id": 137,
+    "path": "A:\\SteamLibrary\\steamapps\\downloading",
+    "parent": "A:\\SteamLibrary\\steamapps",
+    "n_files": 0
+  },
+  {
+    "id": 138,
+    "path": "A:\\SteamLibrary\\steamapps\\shadercache",
+    "parent": "A:\\SteamLibrary\\steamapps",
+    "n_files": 0
+  },
+  {
+    "id": 139,
+    "path": "A:\\SteamLibrary\\steamapps\\shadercache\\220240",
+    "parent": "A:\\SteamLibrary\\steamapps\\shadercache",
+    "n_files": 0
+  },
+  {
+    "id": 140,
+    "path": "A:\\SteamLibrary\\steamapps\\shadercache\\220240\\DXVK_state_cache",
+    "parent": "A:\\SteamLibrary\\steamapps\\shadercache\\220240",
+    "n_files": 0
+  },
+  {
+    "id": 141,
+    "path": "A:\\SteamLibrary\\steamapps\\shadercache\\220240\\fozmediav1",
+    "parent": "A:\\SteamLibrary\\steamapps\\shadercache\\220240",
+    "n_files": 0
+  },
+  {
+    "id": 142,
+    "path": "A:\\SteamLibrary\\steamapps\\shadercache\\220240\\fozpipelinesv6",
+    "parent": "A:\\SteamLibrary\\steamapps\\shadercache\\220240",
+    "n_files": 0
+  },
+  {
+    "id": 143,
+    "path": "A:\\SteamLibrary\\steamapps\\shadercache\\220240\\nvidiav1",
+    "parent": "A:\\SteamLibrary\\steamapps\\shadercache\\220240",
+    "n_files": 0
+  },
+  {
+    "id": 144,
+    "path": "A:\\SteamLibrary\\steamapps\\temp",
+    "parent": "A:\\SteamLibrary\\steamapps",
+    "n_files": 0
+  },
+  {
+    "id": 145,
+    "path": "A:\\YT",
+    "parent": "A:\\",
+    "n_files": 0
+  },
+  {
+    "id": 146,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109",
+    "parent": "A:\\YT",
+    "n_files": 13
+  },
+  {
+    "id": 147,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109",
+    "n_files": 1
+  },
+  {
+    "id": 148,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data",
+    "n_files": 0
+  },
+  {
+    "id": 149,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\02",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 150,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\03",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 151,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\07",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 152,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\0a",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 153,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\0c",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 154,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\0f",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 155,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\12",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 156,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\15",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 5
+  },
+  {
+    "id": 157,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\17",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 4
+  },
+  {
+    "id": 158,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\18",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 159,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\19",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 160,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\1a",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 161,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\1b",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 162,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\1d",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 163,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\1f",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 164,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\20",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 165,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\21",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 166,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\22",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 167,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\24",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 168,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\25",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 169,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\26",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 170,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\28",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 171,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\29",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 172,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\2a",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 173,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\2b",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 174,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\2d",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 175,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\30",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 176,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\31",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 177,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\32",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 178,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\34",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 179,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\37",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 180,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\3a",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 181,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\3d",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 182,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\3e",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 183,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\3f",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 184,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\40",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 185,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\44",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 186,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\48",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 187,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\4e",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 188,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\4f",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 189,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\50",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 190,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\51",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 191,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\53",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 192,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\55",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 193,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\57",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 194,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\59",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 195,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\5b",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 196,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\5c",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 197,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\5d",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 198,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\60",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 199,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\61",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 200,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\63",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 201,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\64",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 202,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\66",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 203,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\67",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 204,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\68",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 205,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\69",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 206,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\6c",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 207,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\6d",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 208,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\6e",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 209,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\71",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 210,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\72",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 211,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\73",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 212,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\75",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 213,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\76",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 214,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\77",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 215,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\79",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 216,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\7c",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 3
+  },
+  {
+    "id": 217,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\80",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 218,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\81",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 219,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\82",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 220,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\84",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 221,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\86",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 222,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\88",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 223,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\89",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 224,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\8b",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 225,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\8d",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 226,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\8e",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 227,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\90",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 228,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\91",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 229,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\93",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 3
+  },
+  {
+    "id": 230,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\94",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 231,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\96",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 232,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\97",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 233,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\98",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 234,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\99",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 235,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\9a",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 236,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\9c",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 237,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\9d",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 238,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\9e",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 239,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\a1",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 3
+  },
+  {
+    "id": 240,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\a3",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 241,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\aa",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 242,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\ac",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 243,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\b2",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 3
+  },
+  {
+    "id": 244,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\b3",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 245,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\b4",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 246,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\b5",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 247,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\b6",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 248,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\bb",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 249,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\bc",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 250,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c1",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 3
+  },
+  {
+    "id": 251,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c2",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 252,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c3",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 253,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c4",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 254,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c5",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 255,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c6",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 256,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c7",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 3
+  },
+  {
+    "id": 257,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\c8",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 258,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\cb",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 259,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\cf",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 260,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\d3",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 261,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\d8",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 262,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\d9",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 263,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\db",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 264,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\dc",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 265,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\df",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 266,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\e0",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 267,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\e1",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 268,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\e4",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 269,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\e5",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 270,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\e6",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 271,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\e7",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 272,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\e8",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 273,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\ea",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 274,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\ec",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 275,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\ed",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 2
+  },
+  {
+    "id": 276,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\ee",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 277,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\ef",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 278,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\f0",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 279,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\f1",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 280,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\f2",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 281,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\f6",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 282,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\f8",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 283,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets\\f9",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\assets",
+    "n_files": 1
+  },
+  {
+    "id": 284,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\fonts",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data",
+    "n_files": 8
+  },
+  {
+    "id": 285,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data",
+    "n_files": 1
+  },
+  {
+    "id": 286,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\babase",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 20
+  },
+  {
+    "id": 287,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\babase\\_generated",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\babase",
+    "n_files": 2
+  },
+  {
+    "id": 288,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\baclassic",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 20
+  },
+  {
+    "id": 289,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 20
+  },
+  {
+    "id": 290,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\assetspec",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 4
+  },
+  {
+    "id": 291,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\classic",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 5
+  },
+  {
+    "id": 292,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\clouddialog",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 3
+  },
+  {
+    "id": 293,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\docui",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 6
+  },
+  {
+    "id": 294,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\langstr",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 6
+  },
+  {
+    "id": 295,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\msg",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 3
+  },
+  {
+    "id": 296,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\restapi",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 1
+  },
+  {
+    "id": 297,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\restapi\\v1",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\restapi",
+    "n_files": 4
+  },
+  {
+    "id": 298,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon\\workspace",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommon",
+    "n_files": 2
+  },
+  {
+    "id": 299,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bacommontools",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 5
+  },
+  {
+    "id": 300,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\baplus",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 7
+  },
+  {
+    "id": 301,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 20
+  },
+  {
+    "id": 302,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 5
+  },
+  {
+    "id": 303,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib\\activity",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib",
+    "n_files": 9
+  },
+  {
+    "id": 304,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib\\actor",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib",
+    "n_files": 20
+  },
+  {
+    "id": 305,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib\\game",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib",
+    "n_files": 19
+  },
+  {
+    "id": 306,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib\\mapdata",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib",
+    "n_files": 18
+  },
+  {
+    "id": 307,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib\\session",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bascenev1lib",
+    "n_files": 1
+  },
+  {
+    "id": 308,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\batemplatefs",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 3
+  },
+  {
+    "id": 309,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 13
+  },
+  {
+    "id": 310,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 20
+  },
+  {
+    "id": 311,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\account",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 5
+  },
+  {
+    "id": 312,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\coop",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 5
+  },
+  {
+    "id": 313,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\docui",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 7
+  },
+  {
+    "id": 314,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\docui\\prep",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\docui",
+    "n_files": 4
+  },
+  {
+    "id": 315,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\gather",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 7
+  },
+  {
+    "id": 316,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\keyboard",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 2
+  },
+  {
+    "id": 317,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\league",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 3
+  },
+  {
+    "id": 318,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\playlist",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 9
+  },
+  {
+    "id": 319,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\profile",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 3
+  },
+  {
+    "id": 320,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\settings",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 19
+  },
+  {
+    "id": 321,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib\\soundtrack",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\bauiv1lib",
+    "n_files": 5
+  },
+  {
+    "id": 322,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\efro",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python",
+    "n_files": 13
+  },
+  {
+    "id": 323,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\efro\\dataclassio",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\efro",
+    "n_files": 9
+  },
+  {
+    "id": 324,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\efro\\message",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python\\efro",
+    "n_files": 6
+  },
+  {
+    "id": 325,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data",
+    "n_files": 1
+  },
+  {
+    "id": 326,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\certifi",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages",
+    "n_files": 4
+  },
+  {
+    "id": 327,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\certifi\\tests",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\certifi",
+    "n_files": 2
+  },
+  {
+    "id": 328,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages",
+    "n_files": 12
+  },
+  {
+    "id": 329,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3\\contrib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3",
+    "n_files": 3
+  },
+  {
+    "id": 330,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3\\contrib\\emscripten",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3\\contrib",
+    "n_files": 5
+  },
+  {
+    "id": 331,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3\\http2",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3",
+    "n_files": 3
+  },
+  {
+    "id": 332,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3\\util",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\urllib3",
+    "n_files": 13
+  },
+  {
+    "id": 333,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages",
+    "n_files": 20
+  },
+  {
+    "id": 334,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets\\asyncio",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets",
+    "n_files": 6
+  },
+  {
+    "id": 335,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets\\extensions",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets",
+    "n_files": 3
+  },
+  {
+    "id": 336,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets\\legacy",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets",
+    "n_files": 9
+  },
+  {
+    "id": 337,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets\\sync",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets",
+    "n_files": 7
+  },
+  {
+    "id": 338,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets\\trio",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\ba_data\\python-site-packages\\websockets",
+    "n_files": 7
+  },
+  {
+    "id": 339,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\DLLs",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109",
+    "n_files": 20
+  },
+  {
+    "id": 340,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109",
+    "n_files": 20
+  },
+  {
+    "id": 341,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\asyncio",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 20
+  },
+  {
+    "id": 342,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\collections",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 1
+  },
+  {
+    "id": 343,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\compression",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 5
+  },
+  {
+    "id": 344,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\compression\\zstd",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\compression",
+    "n_files": 2
+  },
+  {
+    "id": 345,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\compression\\_common",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\compression",
+    "n_files": 2
+  },
+  {
+    "id": 346,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\concurrent",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 1
+  },
+  {
+    "id": 347,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\concurrent\\futures",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\concurrent",
+    "n_files": 5
+  },
+  {
+    "id": 348,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\concurrent\\interpreters",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\concurrent",
+    "n_files": 3
+  },
+  {
+    "id": 349,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\ctypes",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 6
+  },
+  {
+    "id": 350,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\ctypes\\macholib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\ctypes",
+    "n_files": 4
+  },
+  {
+    "id": 351,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\curses",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 5
+  },
+  {
+    "id": 352,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\email",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 20
+  },
+  {
+    "id": 353,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\email\\mime",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\email",
+    "n_files": 9
+  },
+  {
+    "id": 354,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\encodings",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 20
+  },
+  {
+    "id": 355,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\html",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 3
+  },
+  {
+    "id": 356,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\http",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 5
+  },
+  {
+    "id": 357,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\importlib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 9
+  },
+  {
+    "id": 358,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\importlib\\metadata",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\importlib",
+    "n_files": 8
+  },
+  {
+    "id": 359,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\importlib\\resources",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\importlib",
+    "n_files": 8
+  },
+  {
+    "id": 360,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\json",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 6
+  },
+  {
+    "id": 361,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\logging",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 3
+  },
+  {
+    "id": 362,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\pathlib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 4
+  },
+  {
+    "id": 363,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\re",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 5
+  },
+  {
+    "id": 364,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\sqlite3",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 4
+  },
+  {
+    "id": 365,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\string",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 2
+  },
+  {
+    "id": 366,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\sysconfig",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 2
+  },
+  {
+    "id": 367,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\tomllib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 4
+  },
+  {
+    "id": 368,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\urllib",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 6
+  },
+  {
+    "id": 369,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 1
+  },
+  {
+    "id": 370,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml\\dom",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml",
+    "n_files": 8
+  },
+  {
+    "id": 371,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml\\etree",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml",
+    "n_files": 5
+  },
+  {
+    "id": 372,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml\\parsers",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml",
+    "n_files": 2
+  },
+  {
+    "id": 373,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml\\sax",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xml",
+    "n_files": 6
+  },
+  {
+    "id": 374,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\xmlrpc",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 3
+  },
+  {
+    "id": 375,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\zipfile",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 2
+  },
+  {
+    "id": 376,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\zipfile\\_path",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\zipfile",
+    "n_files": 2
+  },
+  {
+    "id": 377,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\zoneinfo",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 4
+  },
+  {
+    "id": 378,
+    "path": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib\\_pyrepl",
+    "parent": "A:\\YT\\BombSquad_Windows_1.8.0a109\\lib",
+    "n_files": 20
+  },
+  {
+    "id": 379,
+    "path": "A:\\YT\\ccc",
+    "parent": "A:\\YT",
+    "n_files": 3
+  }
+]
