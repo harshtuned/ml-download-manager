@@ -5,24 +5,36 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
 import numpy as np
+from app.config import DATA
 from app.indexer import CFG, clean, embed, load_index, expand
 
 _index = None
 _manifest = None
 _children = None
 _names = None
+_loaded_mtime = 0.0
 
 def reload():
-    global _index, _manifest, _children, _names
+    global _index, _manifest, _children, _names, _loaded_mtime
+    # Take the mtime *before* reading: if a re-index lands mid-load, the next
+    # call sees a newer mtime and reloads instead of keeping a stale copy.
+    mtime = _index_mtime()
     _index, _manifest = load_index()
+    _loaded_mtime = mtime
     _children = {}
     for m in _manifest:
         if m["parent"] is not None:
             _children.setdefault(m["parent"], []).append(m["id"])
     _names = [Path(m["path"]).name.lower() for m in _manifest]
 
+def _index_mtime():
+    try:
+        return (DATA / "index.faiss").stat().st_mtime
+    except FileNotFoundError:
+        return None
+
 def _ensure_loaded():
-    if _index is None:
+    if _index is None or _index_mtime() != _loaded_mtime:
         reload()
 
 def extract_text(path):
@@ -33,6 +45,7 @@ def extract_text(path):
 
     content = ""
     ext = p.suffix.lower()
+    limit = CFG.get("pdf_chars", 1500)
     try:
         if ext == ".pdf":
             from pypdf import PdfReader
@@ -40,11 +53,14 @@ def extract_text(path):
             if reader.pages:
                 content = reader.pages[0].extract_text() or ""
         elif ext in {".txt", ".md", ".csv"}:
-            content = p.read_text(errors="ignore")
+            # Only read the head: a multi-GB CSV must not be loaded into RAM.
+            # Extra slack because whitespace is collapsed below.
+            with open(p, "r", encoding="utf-8", errors="ignore") as f:
+                content = f.read(limit * 4)
     except Exception:
-        content = ""   
+        content = ""
 
-    content = re.sub(r"\s+", " ", content).strip()[: CFG.get("pdf_chars", 1500)]
+    content = re.sub(r"\s+", " ", content).strip()[:limit]
     return name, content
 
 def query_vector(name, content):
@@ -95,6 +111,8 @@ def route(path):
     return _manifest[node]["path"], float(scores[node])
 
 if __name__ == "__main__":
+    if len(sys.argv) < 2:
+        sys.exit("usage: python app/router.py <file path>")
     target = " ".join(sys.argv[1:])
     folder, score = route(target)
     print(f"{score:.3f}  ->  {folder}")

@@ -6,4 +6,9 @@ __pycache__/
 *.pt
 data/*.db
 data/*.csv
+# personal: these list every folder on your drives
+data/index.faiss
+data/folder_manifest.json
+data/*.tmp
+data/*.log*
 config.json

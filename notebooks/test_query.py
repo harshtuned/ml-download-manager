@@ -1,29 +1,25 @@
 import sys
-import json
-import numpy as np
-import faiss
-from sentence_transformers import SentenceTransformer
+from pathlib import Path
 
-# Load config
-with open("config.json", "r", encoding="utf-8") as f:
-    CFG = json.load(f)
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
+from app.indexer import load_index
+from app.router import extract_text, query_vector, route
 
 # Get query from terminal
 query = " ".join(sys.argv[1:]) if len(sys.argv) > 1 else "FLAT_EndSem_Paper_2023.pdf"
 
 print(f"Searching index for: '{query}'...")
 
-# Load model and data
-model = SentenceTransformer(CFG["model_name"])
-index = faiss.read_index("data/index.faiss")
+# Embed the query exactly as the router does (aliases, cleaning, PDF text)
+index, manifest = load_index()
+q_vec = query_vector(*extract_text(query)).astype("float32").reshape(1, -1)
+scores, ids = index.search(q_vec, min(5, index.ntotal))
 
-with open("data/folder_manifest.json", "r", encoding="utf-8") as f:
-    manifest = json.load(f)
-
-# Embed query and search
-q_vec = model.encode([query], normalize_embeddings=True).astype("float32")
-scores, ids = index.search(q_vec, 5)
-
-print("\n--- Top 5 Matches ---")
+print("\n--- Top 5 Matches (raw similarity) ---")
 for s, i in zip(scores[0], ids[0]):
-    print(f"{s:.3f}  {manifest[i]['path']}")
+    if i >= 0:
+        print(f"{s:.3f}  {manifest[i]['path']}")
+
+folder, score = route(query)
+print(f"\n--- Router pick (after keyword boosts + descent) ---\n{score:.3f}  {folder}")

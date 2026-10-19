@@ -1,5 +1,4 @@
 import sys
-import json
 import queue
 import threading
 import time
@@ -8,31 +7,30 @@ from pathlib import Path
 from watchdog.events import FileSystemEventHandler
 from watchdog.observers import Observer
 
-BASE = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(BASE))  
-CFG = json.loads((BASE / "config.json").read_text())
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-DOWNLOADS = Path(CFG["downloads_dir"]).expanduser().resolve()
+from app.config import CFG, DOWNLOADS, is_hidden
+
 TEMP_EXT = {e.lower() for e in CFG["temp_extensions"]}
 
-ready_queue = queue.Queue()  
-_pending = set()             
+ready_queue = queue.Queue()
+_pending = set()
 _lock = threading.Lock()
 
 def is_candidate(path):
     p = Path(path)
-    if p.parent.resolve() != DOWNLOADS:      
+    if p.parent.resolve() != DOWNLOADS:
         return False
-    name = p.name
-    if name.startswith((".", "~$")):         
+    if is_hidden(p):
         return False
     if p.suffix.lower() in TEMP_EXT:
         return False
     return True
 
 def is_unlocked(path):
+    # "r+b" fails if the file vanished; "ab" would silently re-create it empty.
     try:
-        with open(path, "ab"):
+        with open(path, "r+b"):
             return True
     except (PermissionError, OSError):
         return False
@@ -88,19 +86,51 @@ class DownloadHandler(FileSystemEventHandler):
             _submit(event.dest_path)
 
 def start():
+    if not DOWNLOADS.is_dir():
+        raise FileNotFoundError(f"downloads_dir does not exist: {DOWNLOADS}")
     observer = Observer()
     observer.schedule(DownloadHandler(), str(DOWNLOADS), recursive=False)
     observer.start()
     return observer
 
+def use_utf8_stdout():
+    """When output is redirected (Task Scheduler, `> log.txt`) Windows falls
+    back to cp1252 and an emoji or non-Latin filename raises UnicodeEncodeError."""
+    if hasattr(sys.stdout, "reconfigure"):
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+
+def report(result):
+    if not result:
+        return
+    status = result.get("status")
+    score = result.get("score") or 0.0
+    if status == "moved":
+        print(f"🚀 MOVED ({score:.3f}): {result['file']} -> {result['folder']}")
+    elif status == "dry_run":
+        print(f"🧪 DRY RUN ({score:.3f}): Would move {result['file']} -> {result['folder']}")
+    elif status == "skipped_low_confidence":
+        print(f"🛑 SKIPPED ({score:.3f}): {result['file']} - score too low, left in Downloads."
+              f" Best guess: {result.get('folder')}")
+    elif status == "ignored_after_undo":
+        print(f"⏪ IGNORED: {result['file']} was just undone.")
+    elif status == "already_there":
+        print(f"📍 ALREADY THERE: {result['file']}")
+    elif status == "error_missing_folder":
+        print(f"❌ ERROR: predicted folder no longer exists: {result['folder']} (re-index needed)")
+    elif status == "error":
+        print(f"❌ ERROR: {result['file']}: {result['error']}")
+    else:
+        print(result)
+
 if __name__ == "__main__":
+    from app import notifier
     from app.mover import process
 
+    use_utf8_stdout()
     obs = start()
     print(f"👀 Watching {DOWNLOADS}  (Ctrl+C to stop)")
-    
-    is_dry = CFG.get("dry_run", False)
-    if is_dry:
+
+    if CFG.get("dry_run", True):   # same default as mover.process
         print("🟡 DRY RUN MODE ACTIVE: Files will be logged to database but not moved.")
 
     try:
@@ -108,25 +138,13 @@ if __name__ == "__main__":
             try:
                 file_path = ready_queue.get(timeout=1)
                 result = process(file_path)
-                
-                if result:
-                    status = result.get("status")
-                    if status == "moved":
-                        print(f"🚀 MOVED ({result['score']:.3f}): -> {result['folder']}")
-                    elif status == "dry_run":
-                        print(f"🧪 DRY RUN ({result['score']:.3f}): Would move to -> {result['folder']}")
-                    elif status == "skipped_low_confidence":
-                        print(f"🛑 SKIPPED ({result['score']:.3f}): Score too low. Left in Downloads.")
-                    elif status == "ignored_after_undo":
-                        print(f"⏪ IGNORED: File was just undone.")
-                    elif status == "error":
-                        print(f"❌ ERROR: {result['error']}")
-                    
+                report(result)
+                notifier.notify(result)
             except queue.Empty:
                 pass
             except Exception as e:
                 print(f"⚠ Error processing file: {e}")
-                
+
     except KeyboardInterrupt:
         print("\nStopping watcher...")
         obs.stop()
